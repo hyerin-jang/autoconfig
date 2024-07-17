@@ -13,7 +13,7 @@ import org.springframework.transaction.TransactionManager;
 import javax.sql.DataSource;
 
 @Slf4j
-@Configuration
+//@Configuration
 public class DbConfig {
 
     private static final Logger log = LoggerFactory.getLogger(DbConfig.class);
